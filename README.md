@@ -1,2 +1,1 @@
-# invaders
-Simple invaders shooter
+## Invaders Shooter
